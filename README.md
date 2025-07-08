@@ -3,7 +3,7 @@
 🎯 Controller | Data Analyst & AI Enthusiast from Portugal  
 🎓 Background in Economics | Postgraduate in Data Science & Business Analytics
 
-##  Skills & Tooks
+###  Skills & Tooks
 
 #### Business Intelligence & Data Analysis
 - Power BI  
@@ -27,7 +27,7 @@
 - Matplotlib, Seaborn  
 
 
-### How to reach me
+#### How to reach me
 - Email: aalmartins@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/ana-m-654127229/
 
