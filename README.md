@@ -1,7 +1,6 @@
 # Hi, I'm Ana 👋
 
 🎯 Controller | Data Analyst & AI Enthusiast from Portugal  
-💼 Currently working as Controller  
 🎓 Background in Economics | Postgraduate in Data Science & Business Analytics
 
 ##  Skills & Tooks
