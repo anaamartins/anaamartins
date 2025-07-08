@@ -6,28 +6,29 @@
 
 ## 🧠 Skills & Tooks
 
-### 💾 Business Intelligence & Data Analysis
+#### 💾 Business Intelligence & Data Analysis
 - Power BI  
 - Power Query  
 - Power Pivot  
 - Excel (Advanced)
-- SQL (T-SQL, DAX, M)  
+- SQL 
 - Azure Data Studio  
-- Azure Databricks  
+- Azure Databricks
+- Azure Data Factory  
 
-### 🧪 Data Science & AI
+#### 🧪 Data Science & AI
 - Python (pandas, numpy, matplotlib, scikit-learn)
-- Machine Learning (supervised & unsupervised)
+- Machine Learning
 - Jupyter Notebook
 - Azure Machine Learning
 
-### 📊 Reporting & Visualization
+#### 📊 Reporting & Visualization
 - Power BI  
 - Excel Dashboards  
 - Matplotlib, Seaborn  
 
 
-## 📫 How to reach me
+### 📫 How to reach me
 - Email: aalmartins@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/ana-m-654127229/
 
