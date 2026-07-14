@@ -54,7 +54,7 @@ No GitHub, partilho projetos relacionados com Business Intelligence, Data Engine
 
 ## Contactos
 
-- [LinkedIn](https://www.linkedin.com/in/ana-martins/)
+- [LinkedIn](www.linkedin.com/in/ana-a-martins)
 - [E-mail](mailto:aalmartins@gmail.com)
 
 
