@@ -22,10 +22,10 @@ No GitHub, partilho projetos relacionados com Business Intelligence, Data Engine
 
 ## Certificações Microsoft
 
-- **Microsoft Certified: Fabric Analytics Engineer Associate** — DP-600
-- **Microsoft Certified: Azure Data Fundamentals** — DP-900
-- **Microsoft Certified: Azure Fundamentals** — AZ-900
-- **Microsoft Certified: Power Platform Fundamentals** — PL-900
+- **Microsoft Certified: Fabric Analytics Engineer Associate** - DP-600
+- **Microsoft Certified: Azure Data Fundamentals** - DP-900
+- **Microsoft Certified: Azure Fundamentals** - AZ-900
+- **Microsoft Certified: Power Platform Fundamentals** - PL-900
 
 
 
@@ -54,7 +54,7 @@ No GitHub, partilho projetos relacionados com Business Intelligence, Data Engine
 
 ## Contactos
 
-- [LinkedIn](www.linkedin.com/in/ana-a-martins)
+- [LinkedIn](https://www.linkedin.com/in/ana-a-martins/)
 - [E-mail](mailto:aalmartins@gmail.com)
 
 
