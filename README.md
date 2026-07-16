@@ -2,25 +2,23 @@
 
 ### Controller | Data Science & Business Analytics
 
-Sou licenciada em **Economia**, com especialização em **Finanças** e **Data Science & Business Analytics**.
+Sou controller, com formação em Finanças e Data Science & Business Analytics.
 
-Combino experiência em **controlo de gestão** e **análise de dados** para desenvolver soluções de reporting, automatizar processos, analisar informação e apoiar a tomada de decisão.
+Combino conhecimento financeiro, controlo de gestão e análise de dados para transformar informação em reports, automatizações e análises orientadas à tomada de decisão.
 
-Neste GitHub, partilho projetos de **Business Intelligence, Data Engineering, Data Analytics e Machine Learning**, aplicados a diferentes problemas de negócio.
+Neste GitHub, partilho projetos que demonstram a aplicação destas competências a problemas concretos de negócio.
 
-
-
-### Competências e tecnologias
+## Competências e tecnologias
 
 | Área | Tecnologias e competências |
 |---|---|
 | **Business Intelligence** | Power BI, Power Query, Power Pivot, DAX, dashboards e definição de KPIs |
-| **Data Engineering** | Azure Data Factory, Azure Databricks, Azure Data Studio, ETL, Data Warehousing e modelação de dados |
 | **Data Analytics** | Python, SQL, análise exploratória, preparação, transformação e visualização de dados |
+| **Data Engineering** | Azure Data Factory, Azure Databricks, Azure Data Studio, ETL, Data Warehousing e modelação de dados |
 | **Data Science & Machine Learning** | Regressão, classificação, avaliação de modelos, Scikit-learn e Azure Machine Learning |
 | **Finanças e Controlo de Gestão** | Budget, forecast, análise de desvios, reporting de gestão e análise de rentabilidade |
 
-### Formação académica
+## Formação académica
 
 - **Pós-Graduação em Data Science & Business Analytics**  
   ISEG — Lisbon School of Economics & Management
